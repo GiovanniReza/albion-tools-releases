@@ -12,7 +12,7 @@ Aplicación local para planificar fabricación y refinado en Albion Online, gest
 
 Compatible con Windows 10 (1903+) y Windows 11 de 64 bits. No necesitas instalar Python ni Node. El primer inicio requiere Internet para descargar el catálogo; los precios e imágenes también necesitan conexión.
 
-También se ofrece un ZIP: extrae **toda** su carpeta y ejecuta `AlbionCraftPlanner.exe`. `SHA256SUMS.txt` permite comprobar la integridad de las descargas.
+La descarga pública ofrece únicamente el instalador completo. Si recibes un ZIP del artefacto de compilación, descomprímelo: encontrarás solo el instalador `.exe`, listo para ejecutar.
 
 ## Actualizar y conservar tus datos
 
