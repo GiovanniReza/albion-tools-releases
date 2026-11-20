@@ -23,3 +23,9 @@ Cierra la aplicación y ejecuta el instalador de la nueva versión. Tus datos se
 Este repositorio contiene únicamente instrucciones y paquetes de distribución. El proyecto fuente no está incluido. Los paquetes no contienen bases de datos personales del autor: cada usuario guarda sus propios datos localmente.
 
 Las descargas son públicas y no requieren acceso al repositorio privado. No se conceden permisos de escritura a los visitantes; la gestión de versiones corresponde al propietario y a su automatización de publicación.
+
+## Problemas y sugerencias
+
+¿Has encontrado un error o tienes una idea de mejora? [Abre un Issue](https://github.com/GiovanniReza/albion-tools-releases/issues/new) en este repositorio. Indica la versión de la app y, si es un problema, los pasos para reproducirlo y el mensaje que aparece.
+
+Los Issues están abiertos para recibir comentarios; esto no concede permisos para modificar el repositorio ni los archivos de distribución.
